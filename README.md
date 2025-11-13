@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nyemyl!
+# 👋 Hi, I'm Emyl Moises!
 
 🎓 4th Year BS Computer Science Student at FEU Tech  
 🌱 Currently learning **DevOps, Linux, Git, and Cloud Technologies**  
